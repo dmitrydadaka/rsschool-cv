@@ -48,7 +48,7 @@ Codewars.com
 Social networking course
 ---
 ##Languages:
-English - B1 Intermediate and B2 Upper Intermediate [EF SET Quick Check]
+English - B1 Intermediate and B2 Upper Intermediate [EF SET Quick Check](https://www.efset.org/)
 Russian - Native
 
 https://www.youtube.com/watch?v=3QooZAC7pEE
