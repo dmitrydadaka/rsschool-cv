@@ -3,8 +3,6 @@
 
 #Dmitry Dadaka
 
-Male, 33 years old, born December 27, 1987
-
 **Contacts:**
 ---
 1.+375 (33) 6650401 - preferred communication method
