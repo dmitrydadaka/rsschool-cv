@@ -1,23 +1,23 @@
 
 ![image](assets/image.png)
----
+
 #Dmitry Dadaka
----
+
 Male, 33 years old, born December 27, 1987
 
-##Contacts:
-
-*+375 (33) 6650401 - preferred communication method
-*belpc2012@gmail.com
-*[LinkedIn](https://www.linkedin.com/feed/)
-*[github.com](https://github.com/dmitrydadaka)
-
+**Contacts**:
 ---
-##About myself:
+1.+375 (33) 6650401 - preferred communication method
+1.belpc2012@gmail.com
+1.[LinkedIn](https://www.linkedin.com/feed/)
+1.[github.com](https://github.com/dmitrydadaka)
+
+**About myself:**
+---
 In my first education I am a lawyer. In the process of working as a lawyer, I realized that this profession does not give me satisfaction. Therefore, over time, I decided to change my profession and become a software engineer. Graduated from the faculty of retraining of the Belarusian State University of Informatics and Radioelectronics. Unfortunately, the course curriculum was not up to date. I had to self-study and take free courses. I hope that my efforts were not in vain and that I will receive a job offer.
 
+**Skills and Proficiency:**
 ---
-##Skills and Proficiency:
  *OOP
  *HTML5, CSS3
  *JavaScript Basics
@@ -27,8 +27,8 @@ In my first education I am a lawyer. In the process of working as a lawyer, I re
  *Git, GitHub
  *VS Code, IntelliJ IDEA
 
+**Code example:**
 ---
-##Code example:
 Function composition from codewars:
 Given a text, for example:
 const inputText = "Michael, how are you? - Cool, how is John Williamns and Michael Jordan? I don't know but Michael Johnson is fine. Michael do you still score points with LeBron James, Michael Green AKA Star and Michael Wood?";
@@ -39,15 +39,15 @@ function getMichaelLastName(i) {
 return (i.match(/Michael ([A-Z]\w+)/g)||[]).map(x=>x.replace(/Michael /g,''))
 }```
 
----
-##Education:
 
+**Education:**
+---
 Graduated from the faculty of retraining of the Belarusian State University of Informatics and Radioelectronics
-##Courses:
-Codewars.com
-Social networking course
+**Courses:**
+1.Codewars.com
+1.Social networking course
 
----
+
 ##Languages:
 
 English - B1 Intermediate and B2 Upper Intermediate [EF SET Quick Check](https://www.efset.org/)
