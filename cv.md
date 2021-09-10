@@ -5,7 +5,7 @@
 
 Male, 33 years old, born December 27, 1987
 
-**Contacts**:
+**Contacts:**
 ---
 1.+375 (33) 6650401 - preferred communication method
 1.belpc2012@gmail.com
@@ -27,6 +27,22 @@ In my first education I am a lawyer. In the process of working as a lawyer, I re
  *Git, GitHub
  *VS Code, IntelliJ IDEA
 
+**Education:**
+---
+Graduated from the faculty of retraining of the Belarusian State University of Informatics and Radioelectronics
+**Courses:**
+1.Codewars.com
+1.Social networking course
+
+
+**Languages:**
+---
+
+English - B1 Intermediate and B2 Upper Intermediate [EF SET Quick Check](https://www.efset.org/)
+Russian - Native
+
+[yuotube.com](https://www.youtube.com/watch?v=3QooZAC7pEE)
+
 **Code example:**
 ---
 Function composition from codewars:
@@ -38,19 +54,3 @@ get an array of last names of people named Michael.
 function getMichaelLastName(i) {
 return (i.match(/Michael ([A-Z]\w+)/g)||[]).map(x=>x.replace(/Michael /g,''))
 }```
-
-
-**Education:**
----
-Graduated from the faculty of retraining of the Belarusian State University of Informatics and Radioelectronics
-**Courses:**
-1.Codewars.com
-1.Social networking course
-
-
-##Languages:
-
-English - B1 Intermediate and B2 Upper Intermediate [EF SET Quick Check](https://www.efset.org/)
-Russian - Native
-
-https://www.youtube.com/watch?v=3QooZAC7pEE
