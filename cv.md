@@ -1,11 +1,12 @@
 
-![image](https://hhcdn.ru/photo/401160660.png?t=1631373446&h=YhgilpAlpwYV8hdAY-cMEA)
+![image](assets/image.png)
 ---
 #Dmitry Dadaka
 ---
 Male, 33 years old, born December 27, 1987
 
-##Contacts
+##Contacts:
+
 *+375 (33) 6650401 - preferred communication method
 *belpc2012@gmail.com
 *[LinkedIn](https://www.linkedin.com/feed/)
