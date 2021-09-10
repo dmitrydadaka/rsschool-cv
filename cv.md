@@ -1,4 +1,5 @@
 #rsschool-cv#
+
 #Dmitry Dadaka#
 
 Male, 33 years old, born December 27, 1987
@@ -16,14 +17,14 @@ In my first education I am a lawyer. In the process of working as a lawyer, I re
 
 ##Skills and Proficiency:##
 
-OOP
-HTML5, CSS3
-JavaScript Basics
-Typescript Basics
-React
-Ajax
-Git, GitHub
-VS Code, IntelliJ IDEA
+*OOP
+*HTML5, CSS3
+*JavaScript Basics
+*Typescript Basics
+*React
+*Ajax
+*Git, GitHub
+*VS Code, IntelliJ IDEA
 
 ##Code example:##
 
@@ -32,9 +33,9 @@ Given a text, for example:
 const inputText = "Michael, how are you? - Cool, how is John Williamns and Michael Jordan? I don't know but Michael Johnson is fine. Michael do you still score points with LeBron James, Michael Green AKA Star and Michael Wood?";
 get an array of last names of people named Michael.
 
-function getMichaelLastName(i) {
+```function getMichaelLastName(i) {
 return (i.match(/Michael ([A-Z]\w+)/g)||[]).map(x=>x.replace(/Michael /g,''))
-}
+}```
 
 ##Education:##
 
