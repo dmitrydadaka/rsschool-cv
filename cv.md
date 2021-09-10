@@ -6,7 +6,7 @@ Male, 33 years old, born December 27, 1987
 
 +375 (33) 6650401 - preferred communication method
 belpc2012@gmail.com
-*[LinkedIn](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B4%D0% B0% D0% B4% D0% B0% D0% BA% D0% B0-1049745b/)
+*[LinkedIn](https://www.linkedin.com/feed/)
 *[github.com](https://github.com/dmitrydadaka)
 ---
 ##About myself
