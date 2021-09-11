@@ -1,7 +1,7 @@
 
 ![image](assets/image.png)
 
-#Dmitry Dadaka
+**DMITRY DADAKA**
 
 **Contacts:**
 ---
@@ -51,4 +51,5 @@ get an array of last names of people named Michael.
 ```
 function getMichaelLastName(i) {
 return (i.match(/Michael ([A-Z]\w+)/g)||[]).map(x=>x.replace(/Michael /g,''))
-}```
+}
+```
