@@ -39,7 +39,7 @@ Graduated from the faculty of retraining of the Belarusian State University of I
 English - B1 Intermediate and B2 Upper Intermediate [EF SET Quick Check](https://www.efset.org/)
 Russian - Native
 
-[yuotube.com](https://www.youtube.com/watch?v=3QooZAC7pEE)
+[youtube.com](https://www.youtube.com/watch?v=3QooZAC7pEE)
 
 **Code example:**
 ---
