@@ -1,59 +1,118 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <meta charset="utf-8">
-    <title>CV</title>
-    <link rel="stylesheet" href="style.css">
-   </head>
-<body>
-<div class='wrapper'>
-<img src='assets/image.png'class='center'>  
-<h1>Dmitry Dadaka</h1>        
-<h2>Contacts:</h2>
-<ul>
-  <li>+375 (33) 6650401 - preferred communication method</li>
-  <li>belpc2012@gmail.com</li>
-  <li><a href="https://www.linkedin.com/feed/">Linkedin</a></li>
-  <li><a href="https://github.com/dmitrydadaka">Github</a></li>
-</ul> 
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="lib/styles/atom-one-dark.min.css">
+        <title>CV</title>   
+    </head>
+    <body>
+        <div class="wrapper"></div>
+        <header>
+            <div>
+                <nav class="header__nav">
+                    <div class="humburger-menu">
+                        <input type="checkbox" id="menu__toggle" />
+                        <label for="menu__toggle" class="menu__btn">
+                            <span></span>
+                        </label>
+                        <ul class="nav__list">
+                            <li><a class="nav-list__item" href="#contacts">Contacts</a></li>
+                            <li><a class="nav-list__item" href="#about-me">About me</a></li>
+                            <li><a class="nav-list__item" href="#skills">Skills</a></li>
+                            <li><a class="nav-list__item" href="#education">Education</a></li>
+                            <li><a class="nav-list__item" href="#courses">Courses</a></li>
+                            <li><a class="nav-list__item" href="#code-example">Code example</a></li>
+                            <li><a class="nav-list__item" href="#languages">Languages</a></li>
+                            <li><a class="nav-list__item" href="#video-summary">Video Summary</a></li>
 
-<h2>About myself:</h2>
-<p>In my first education I am a lawyer. In the process of working as a lawyer, I realized that this profession does not give me satisfaction.
-  Therefore, over time, I decided to change my profession and become a software engineer. Graduated from the faculty of retraining of the Belarusian State University of Informatics and Radioelectronics. 
-  Unfortunately, the course curriculum was not up to date. I had to self-study and take free courses. 
-  I hope that my efforts were not in vain and that I will receive a job offer.</p>
-<h2>Skills and Proficiency:</h2>
-<ol>
-  <li>OOP</li>
-  <li>HTML5, CSS3</li>
-  <li>JavaScript Basics,Typescript Basics</li>
-  <li>React</li>
-  <li>Ajax</li>
-  <li>Git, GitHub</li>
-  <li>VS Code, IntelliJ IDEA</li>
-</ol> 
-<h2>Education:</h2>
-<p>Graduated from the faculty of retraining of the Belarusian State University of Informatics and Radioelectronics</p>
+                          </ul>
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <main>
+            <img src='assets/image.png' alt="" class='center'>  
+            <h1>Dmitry Dadaka</h1>
+            <section id='contacts'>
+                <h2>Contacts:</h2>
+            <ul>
+              <li>+375 (33) 6650401 - preferred communication method</li>
+              <li>belpc2012@gmail.com</li>
+              <li><a href="https://www.linkedin.com/feed/">Linkedin</a></li>
+              <li><a href="https://github.com/dmitrydadaka">Github</a></li>
+            </ul> 
+            </section> 
+            <section class="about-me">
+                <h2>About myself:</h2>
+                <p>In my first education I am a lawyer. In the process of working as a lawyer, I realized that this profession does not give me satisfaction.
+                  Therefore, over time, I decided to change my profession and become a software engineer. Graduated from the faculty of retraining of the Belarusian State University of Informatics and Radioelectronics. 
+                  Unfortunately, the course curriculum was not up to date. I had to self-study and take free courses. 
+                  I hope that my efforts were not in vain and that I will receive a job offer.</p>
+            </section>
+            <section id="skills">
+                <h2>Skills and Proficiency:</h2>
+                <ul>
+                    <li>OOP</li>
+                    <li>HTML5, CSS3</li>
+                    <li>JavaScript Basics,Typescript Basics</li>
+                    <li>React</li>
+                    <li>Ajax</li>
+                    <li>Git, GitHub</li>
+                    <li>VS Code, IntelliJ IDEA</li>
+                  </ul> 
+            </section>
+            <section id="education">
+                <h2>Education:</h2>
+                <p>Graduated from the faculty of retraining of the Belarusian State University of Informatics and Radioelectronics</p>
+            </section>
+            <section class="_courses" id="courses">
+                <h3>Courses:</h3>
+                <ul>
+                  <li><a href="https://www.codewars.com/">codewars.com</a></li>
+                  <li><a href="https://github.com/dmitrydadaka/socialNetwork">Social networking course</a></li>
+                </ul> 
+            </section>
+            <section id="code-example">
+                <h2>Code example:</h2>
+            <p>Function composition from codewars:
+              Given a text, for example:
+              const inputText = "Michael, how are you? - Cool, how is John Williamns and Michael Jordan? I don't know but Michael Johnson is fine. Michael do you still score points with LeBron James, Michael Green AKA Star and Michael Wood?";
+              get an array of last names of people named Michael.
+            </p>
+            <pre>
+                <code>
+                    function getMichaelLastName(i) {
+                        return (i.match(/Michael ([A-Z]\w+)/g)||[]).map(x=>x.replace(/Michael /g,''))
+                        }
+                </code>
+            </pre>
+              <code class='coding'></code>
+            </section>
+            <section id="languages">
+                <h2>Languages:</h2>
+                <ul>
+                  <li><a href="https://www.efset.org/">English - B1 Intermediate and B2 Upper Intermediate(EF SET Quick Check)</a></li>
+                  <li>Russian-native</li>
+                </ul>
+            </section>
+            <section id="video-summary">
+                <h3><a href="https://www.youtube.com/watch?v=3QooZAC7pEE">Video summary</a></h3>
+            <div><iframe width="560" height="315" src="https://www.youtube.com/embed/3QooZAC7pEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+            </div>
+            </section>       
+        </main>
+        <footer>
+            <a href="https://github.com/dmitrydadaka">Github</a>
+            2021
+            <a href="https://app.rs.school"><img src='assets/rs_school_js.svg' class="center1"></a>
+        </footer>   
+        <script src="lib/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script>
 
-<h3>Courses:</h3>
-<ul>
-  <li><a href="https://www.codewars.com/">codewars.com</a></li>
-  <li><a href="https://github.com/dmitrydadaka/socialNetwork">Social networking course</a></li>
-</ul> 
-<h2>Code example:</h2>
-<p>Function composition from codewars:
-  Given a text, for example:
-  const inputText = "Michael, how are you? - Cool, how is John Williamns and Michael Jordan? I don't know but Michael Johnson is fine. Michael do you still score points with LeBron James, Michael Green AKA Star and Michael Wood?";
-  get an array of last names of people named Michael.</p>
-  <code class='coding'>function getMichaelLastName(i) {
-    return (i.match(/Michael ([A-Z]\w+)/g)||[]).map(x=>x.replace(/Michael /g,''))
-    }</code>
-<h2>Languages:</h2>
-<ul>
-  <li><a href="https://www.efset.org/">English - B1 Intermediate and B2 Upper Intermediate(EF SET Quick Check)</a></li>
-  <li>Russian-native</li>
-</ul>
-<h3><a href="https://www.youtube.com/watch?v=3QooZAC7pEE">Video summary</a></h3>
-</div>
     </body>
-</html>   
+</html>
+
+      
