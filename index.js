@@ -1,1 +1,0 @@
-console.log('verstka sem-20,css stili-10,adapt-10,burger-10, ul-10, avatar-10, cv english-10, highlights-10,samoocenka-10,video-10, obraz i navyki english-10')
